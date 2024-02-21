@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>INterface_notion_de_base</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\0862704\Desktop\interface.cs" Link="interface.cs" />
+    <Compile Include="C:\Users\0862704\Desktop\Interface\interface.cs" Link="interface.cs" />
+  </ItemGroup>
+
+</Project>

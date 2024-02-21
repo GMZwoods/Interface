@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INterface notion de base", "INterface notion de base.csproj", "{203566EA-6A4F-405A-A476-C7E9543A74F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{203566EA-6A4F-405A-A476-C7E9543A74F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203566EA-6A4F-405A-A476-C7E9543A74F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203566EA-6A4F-405A-A476-C7E9543A74F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203566EA-6A4F-405A-A476-C7E9543A74F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB92016C-5AD5-408B-A165-84ABF38121FB}
+	EndGlobalSection
+EndGlobal
